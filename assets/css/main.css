@@ -2657,9 +2657,9 @@ input, select, textarea {
 			}
 
 		.image.main {
-			display: block;
+			/* display: block; */
 			margin: 4rem 0;
-			width: 100%;
+			/* width: 100%; */
 		}
 
 			.image.main:first-child {
