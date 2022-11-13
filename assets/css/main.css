@@ -2640,7 +2640,7 @@ input, select, textarea {
 		}
 
 		.image.fit {
-			display: block;
+			/* display: block; */
 			margin: 2.5rem 0;
 			transition: transform .2s; /* Animation */
 		}
@@ -2664,6 +2664,7 @@ input, select, textarea {
 
 			.image.main:first-child {
 				margin-top: 0;
+				
 			}
 
 			
